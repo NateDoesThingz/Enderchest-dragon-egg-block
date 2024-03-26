@@ -1,0 +1,5 @@
+name: DragonEggEnderChestBlocker2.0
+author: Nate
+main: me.nate.Main
+api-version: 1.20
+version: '${version}'
